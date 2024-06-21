@@ -1,5 +1,9 @@
 ## RUKMI PATEL (CERTIFIED LARAVEL EXPERT)
 
+Thank you for visiting my profile!
+
+I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I specialize in delivering quality services with respect for strict deadlines and high expectations.
+
 ## SKILLS
 
 - **Languages:** PHP, HTML5, CSS3, JavaScript

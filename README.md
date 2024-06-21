@@ -1,16 +1,25 @@
-## Hi there 👋
+## RUKMI PATEL (CERTIFIED LARAVEL EXPERT)
 
-<!--
-**rukmi-patel-it/rukmi-patel-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
 
-Here are some ideas to get you started:
+- **Languages:** PHP, HTML5, CSS3, JavaScript
+- **Backend Frameworks:** Laravel, Symfony
+- **Databases:** MySql, MariaDB, MongoDB, DynamoDB
+- **Frontend Frameworks:** Vue 2.x/3.x, React.js, Nuxt.js
+- **CSS Frameworks:** Bootstrap, Material CSS, Tailwind CSS, SASS
+- **Tools:** Git, Docker, AWS, Jenkins, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CERTIFICATION
+
+- **CERTIFIED LARAVEL EXPERT:** https://exam.laravelcert.com/is/patel-rukmi-bipinbhai/certified-since/2020-09-29
+- **CERTIFIED NODE EXPERT:** https://www.udemy.com/certificate/UC-cedbbed2-bf39-4e19-8356-c9da8ef2e24c/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
+- **GOOGLE ANALYTICS INDIVIDUAL:** https://skillshop.exceedlms.com/student/award/578yxdpsX8HxJe3KssVzJosq
+  
+
+## CONTACT
+
+Feel free to reach out to me for freelance opportunities or any inquiries!
+
+- **Email:** [rukmi.patel@itreeni.com](mailto:rukmi.patel@itreeni.com)
+- **LinkedIn:** [www.linkedin.com/in/rukmi-patel-itreeni](https://www.linkedin.com/in/rukmi-patel-itreeni/)
+- **StackOverFlow:** [www.stackoverflow.com/users/788864/rukmi-patel](https://stackoverflow.com/users/788864/rukmi-patel)

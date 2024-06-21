@@ -19,12 +19,18 @@ I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I
 - **CERTIFIED NODE EXPERT:** https://www.udemy.com/certificate/UC-cedbbed2-bf39-4e19-8356-c9da8ef2e24c/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
 - **GOOGLE ANALYTICS INDIVIDUAL:** https://skillshop.exceedlms.com/student/award/578yxdpsX8HxJe3KssVzJosq
 - **INTERNATIONAL ENGLISH LANGUAGE TESTING SYSTEM:** scored 7 bands out of 9.
-  
 
-## CONTACT
+## Resume
+
+[View My Resume](https://drive.google.com/file/d/1teCMupQY-im4LvY7gXBBGapYe1VbqLP0/view?usp=sharing)
+
+## GET IN TOUCH
 
 Feel free to reach out to me for freelance opportunities or any inquiries!
 
 - **Email:** [rukmi.patel@itreeni.com](mailto:rukmi.patel@itreeni.com)
 - **LinkedIn:** [www.linkedin.com/in/rukmi-patel-itreeni](https://www.linkedin.com/in/rukmi-patel-itreeni/)
 - **StackOverFlow:** [www.stackoverflow.com/users/788864/rukmi-patel](https://stackoverflow.com/users/788864/rukmi-patel)
+
+
+Looking forward to collaborating on exciting projects!

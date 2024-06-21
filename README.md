@@ -21,9 +21,10 @@ I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I
 - **GOOGLE ANALYTICS INDIVIDUAL:** https://skillshop.exceedlms.com/student/award/578yxdpsX8HxJe3KssVzJosq
 - **INTERNATIONAL ENGLISH LANGUAGE TESTING SYSTEM:** scored 7 bands out of 9.
 
-## Resume
+## RESUME
 
 [View My Resume](https://drive.google.com/file/d/1teCMupQY-im4LvY7gXBBGapYe1VbqLP0/view?usp=sharing)
+
 
 ## GET IN TOUCH
 

@@ -4,13 +4,6 @@ Thank you for visiting my profile!
 
 I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I specialize in delivering quality services with respect for strict deadlines and high expectations.
 
- - Gathering/refining/finalizing project requirements by taking a series of calls with clients.
- - Providing accurate estimation and finalizing project planning to ensure smooth project execution and delivery.
- - Improve team morale and motivation through positive reinforcement and team-building activities.
- - Developed and maintained an Agile team culture by facilitating team-building activities and promoting an environment of continuous improvement.
- - Inspired and managed teams in operational improvements, increasing overall productivity.
- - Design and implementation of continuous integration and deployment.
-
 ## SKILLS
 
 - **Languages:** PHP, HTML5, CSS3, JavaScript
@@ -18,7 +11,8 @@ I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I
 - **Databases:** MySql, MariaDB, MongoDB, DynamoDB
 - **Frontend Frameworks:** Vue 2.x/3.x, React.js, Nuxt.js
 - **CSS Frameworks:** Bootstrap, Material CSS, Tailwind CSS, SASS
-- **Tools:** Git, Docker, AWS, Jenkins, VSCode
+- **Project Management:** JIRA, Asana, ClickUp
+- **Other Tools:** Git, Docker, AWS, Jenkins, VSCode
 
 ## CERTIFICATION
 

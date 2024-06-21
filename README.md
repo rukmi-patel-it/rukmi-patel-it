@@ -6,7 +6,7 @@ I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I
 
 ## SKILLS
 
-- **Languages:** PHP, HTML5, CSS3, JavaScript
+- **Languages:** Node.js, PHP, HTML5, CSS3, JavaScript
 - **Backend Frameworks:** Laravel, Symfony
 - **Databases:** MySql, MariaDB, MongoDB, DynamoDB
 - **Frontend Frameworks:** Vue 2.x/3.x, React.js, Nuxt.js

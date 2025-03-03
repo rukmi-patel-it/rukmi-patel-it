@@ -16,7 +16,7 @@ I am a CERTIFIED LARAVEL/NODE EXPERT with 12+ years of Open Source experience. I
 
 ## CERTIFICATION
 
-- **CERTIFIED LARAVEL EXPERT:** [https://exam.laravelcert.com/is/patel-rukmi-bipinbhai/certified-since/2020-09-29](Verify Laravel Certificate)
+- **CERTIFIED LARAVEL EXPERT:** [Verify Laravel Certificate](https://verifier.certificationforlaravel.org/3e766d44-7f48-4786-8b26-9e78dd827c64)
 - **CERTIFIED NODE EXPERT:** https://www.udemy.com/certificate/UC-cedbbed2-bf39-4e19-8356-c9da8ef2e24c/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
 - **GOOGLE ANALYTICS INDIVIDUAL:** https://skillshop.exceedlms.com/student/award/578yxdpsX8HxJe3KssVzJosq
 - **INTERNATIONAL ENGLISH LANGUAGE TESTING SYSTEM:** scored 7 bands out of 9.
